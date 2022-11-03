@@ -1,6 +1,6 @@
 /*
 Monkeypox Data Exploration 
-Skills used: Joins, CTE's, Aggregate Functions, Converting Data Types
+Skills used: Joins, Conditional Expressions, Aggregate Functions, Converting Data Types
 */
 
 --Where / when were first cases reported:
